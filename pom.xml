@@ -97,7 +97,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:anouvene/sfg-pet-clinic-1.git</developerConnection>
-      <tag>sfg-pet-clinic-0.0.5</tag>
-  </scm>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
